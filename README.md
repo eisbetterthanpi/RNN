@@ -8,8 +8,8 @@ h_t = \tanh(x_t W_{ih}^T + b_{ih} + h_{t-1}W_{hh}^T + b_{hh})
 
 <div align="center">
   <div>&nbsp;</div>
-  <img src="resources/rnn.png" width="300"/>
-  <img src="resources/lstm_gru.png" width="400"/>
+  <img src="resources/rnn.png" width="100"/>
+  <img src="resources/lstm_gru.png" width="500"/>
   <div align="center">src: https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21</div>
 </div>
 
